@@ -1,0 +1,28 @@
+p{
+	font-family: tahoma;
+}
+
+#wrapper{
+	width:100vh;
+	height:100vh;
+	background-color:white;
+	overflow:auto;
+}
+
+#header{
+	height:15%;
+}
+
+#contentPane{
+	height:80%;
+}
+
+#footer{
+	height:5%;
+}
+
+.headerText{
+	font-size: 40px;
+	color: black;
+	font-family: tahoma;
+}
